@@ -25,6 +25,14 @@ func main() {
 	mPortaudioTakeOnMe()
 }
 
+func test() {
+	f, err := os.Open("/home/antonio/Downloads/Rick_Astley_-_Never_Gonna_Give_You_Up.mid")
+	if err != nil {
+		panic(err)
+	}
+	barullo.GetEventsFromMidi(4, sampleRate, f)
+}
+
 func mPortaudio() {
 	portaudio.Initialize()
 	defer portaudio.Terminate()
@@ -199,7 +207,7 @@ func mPortaudioTakeOnMe() {
 	}
 	defer stream.Stop()
 
-	f, err := os.Open("./assets/take_on_me.json")
+	f, err := os.Open("./assets/Take On Me 8 (Karaoke).mid")
 	if err != nil {
 		log.Fatal(err)
 	}

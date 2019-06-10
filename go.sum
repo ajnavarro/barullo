@@ -1,2 +1,11 @@
+github.com/go-audio/midi v1.0.0 h1:50zbE5RwJxfwYdOYMqIhdhcTnfqmGPuKm5j5g6ethik=
+github.com/go-audio/midi v1.0.0/go.mod h1:PoFcd6KPFUn++NHd1libpb/WifNIb/qKVvZ71McMVmo=
+github.com/gomidi/midi v1.6.0 h1:g/aUVDRfFKzCIvmlI2MRc6IKopKdBno2bBb/2a4RYmo=
+github.com/gomidi/midi v1.6.0/go.mod h1:B16DbgtsXSbQK9Q75aVezVL6VGhaK+2CVe/ybwUUCHE=
 github.com/gordonklaus/portaudio v0.0.0-20180817120803-00e7307ccd93 h1:TSG+DyZBnazM22ZHyHLeUkzM34ClkJRjIWHTq4btvek=
 github.com/gordonklaus/portaudio v0.0.0-20180817120803-00e7307ccd93/go.mod h1:HfYnZi/ARQKG0dwH5HNDmPCHdLiFiBf+SI7DbhW7et4=
+github.com/mattetti/filebuffer v1.0.0 h1:ixTvQ0JjBTwWbdpDZ98lLrydo7KRi8xNRIi5RFszsbY=
+github.com/mattetti/filebuffer v1.0.0/go.mod h1:X6nyAIge2JGVmuJt2MFCqmHrb/5IHiphfHtot0s5cnI=
+gitlab.com/gomidi/midi v1.6.0/go.mod h1:B16DbgtsXSbQK9Q75aVezVL6VGhaK+2CVe/ybwUUCHE=
+gitlab.com/gomidi/midi v1.13.1 h1:Tp0MtGXcP+OP/cC/hRCld66kErBUQS16UKwkpv3xQe8=
+gitlab.com/gomidi/midi v1.13.1/go.mod h1:3ohtNOhqoSakkuLG/Li1OI6I3J1c2LErnJF5o/VBq1c=
